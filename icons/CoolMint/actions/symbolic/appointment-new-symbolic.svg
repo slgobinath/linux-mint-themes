@@ -5,85 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3371"
    version="1.1"
-   width="15.999892">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="appointment-new-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3379">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3377"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3371" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-493.00031,1.99673)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-493.00031,1.99673)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-493.00031,1.99673)" />
-  <g
-     id="layer14"
-     transform="translate(-493.00031,1.99673)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-493.00031,1.99673)" />
-  <g
-     id="layer3"
-     style="display:inline"
-     transform="translate(-252.00011,-565.00327)" />
-  <g
-     id="g41299"
-     transform="translate(-252.00011,-565.00327)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-493.00031,1.99673)">
-    <path
-       d="m 505.0002,8.00327 0,1.99673 -2,0 0,1.99673 2,0 0,1.99673 2,0 0,-1.99673 2,0 0,-1.99673 -2,0 0,-1.99673 -2,0 z"
-       id="path26815"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-    <path
-       d="M 499.40625,2 A 0.50005,0.50005 0 0 0 499,2.5 l 0,2.5 -1.5,0 a 0.50005,0.50005 0 1 0 0,1 l 2,0 A 0.50005,0.50005 0 0 0 500,5.5 l 0,-3 A 0.50005,0.50005 0 0 0 499.40625,2 z"
-       id="path26788"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 499.50041,12.00327 c -3.57802,0 -6.5,-2.92199 -6.5,-6.5 0,-3.57801 2.92198,-6.5 6.5,-6.5 3.57798,0 6.5,2.92199 6.5,6.5 0,0.51565 -0.0727,1.01814 -0.1875,1.5 l -2.09375,0 c 0.1673,-0.47279 0.28124,-0.96704 0.28124,-1.5 0,-2.49712 -2.00288,-4.5 -4.49999,-4.5 -2.49714,0 -4.50001,2.00288 -4.50001,4.5 0,2.49713 2.00287,4.5 4.50001,4.5 0.9323,0 1.78949,-0.26937 2.5,-0.75 l 0,2.25 c -0.76791,0.32274 -1.61416,0.5 -2.5,0.5 z"
-       id="path26792"
-       style="font-size:xx-small;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.54545426;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 7.988037,1 C 7.0390132,1 6.1370149,1.1887199 5.270752,1.5605468 3.5500057,2.2989599 2.2896704,3.5515189 1.550293,5.275879 1.1797918,6.1397753 1,7.0419654 1,7.9914548 1,8.9411272 1.1797917,9.853206 1.550293,10.717285 2.2896704,12.441647 3.5501654,13.700859 5.270752,14.439453 6.1371747,14.811282 7.0389898,15 7.988037,15 8.937083,15 9.846782,14.809313 10.713866,14.439453 12.448979,13.69905 13.702929,12.438717 14.441162,10.717285 14.812785,9.850437 15,8.9411272 15,7.9914548 15,7.0419654 14.812967,6.1427047 14.441162,5.275879 13.703089,3.5542881 12.448979,2.3009283 10.713866,1.5605468 9.8466446,1.190505 8.9372204,1 7.988037,1 Z M 7.5556645,3.5686035 c 0.3569265,0 0.6477047,0.2923103 0.6477047,0.6494141 l 0,4.4467776 2.5207518,1.9704598 c 0.292032,0.216439 0.335962,0.627812 0.119629,0.909178 -0.118989,0.16232 -0.31459,0.247803 -0.509277,0.247803 -0.140596,0 -0.279206,-0.05356 -0.3981937,-0.140136 L 7.1557615,9.4885255 C 7.0043246,9.3694782 6.90625,9.1848402 6.90625,8.9792484 l 0,-4.7612308 c 0,-0.3571038 0.2924854,-0.6494141 0.6494145,-0.6494141 z"
+     id="path3375"
+     inkscape:connector-curvature="0" />
 </svg>

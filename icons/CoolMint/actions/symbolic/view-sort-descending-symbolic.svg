@@ -5,101 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3371"
    version="1.1"
-   width="16">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="view-sort-descending-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3379">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3377"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3371" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="layer14"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-493.0006,-108)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-493.0006,-108)">
-    <rect
-       height="2"
-       id="rect20781"
-       rx="0.38461545"
-       ry="0.37878788"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="2.0000002"
-       x="494.0004"
-       y="111" />
-    <rect
-       height="2"
-       id="rect20783"
-       rx="0.38461545"
-       ry="0.37878788"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="2.0000002"
-       x="494.0004"
-       y="115.01562" />
-    <rect
-       height="2"
-       id="rect20785"
-       rx="0.38461545"
-       ry="0.37878788"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       width="2.0000002"
-       x="494.0004"
-       y="119" />
-    <path
-       d="m 500.0004,120.78125 0,-4 -3.0625,0 5.125,-5.78125 5.125,5.78125 -3.1875,0 0,4 z"
-       id="path20787"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 2.5601762,2.1453744 C 1.7486943,2.1453744 1.08,2.8140687 1.08,3.6255507 c 0,0.8114819 0.6686943,1.4801762 1.4801762,1.4801762 0.8114819,0 1.4801762,-0.6686943 1.4801762,-1.4801762 0,-0.811482 -0.6686943,-1.4801763 -1.4801762,-1.4801763 z m 7.4008811,0 -4.9955947,6.907489 3.0220264,0 0,3.9471366 3.947137,0 0,-3.9471366 3.145374,0 -5.1189427,-6.907489 z M 2.5601762,6.092511 C 1.7486943,6.092511 1.08,6.7612053 1.08,7.5726872 c 0,0.811482 0.6686943,1.4801762 1.4801762,1.4801762 0.8114819,0 1.4801762,-0.6686942 1.4801762,-1.4801762 0,-0.8114819 -0.6686943,-1.4801762 -1.4801762,-1.4801762 z m 0,3.947137 C 1.7486943,10.039648 1.08,10.708342 1.08,11.519824 1.08,12.331306 1.7486943,13 2.5601762,13 c 0.8114819,0 1.4801762,-0.668694 1.4801762,-1.480176 0,-0.811482 -0.6686943,-1.480176 -1.4801762,-1.480176 z"
+     id="path3375"
+     inkscape:connector-curvature="0" />
 </svg>

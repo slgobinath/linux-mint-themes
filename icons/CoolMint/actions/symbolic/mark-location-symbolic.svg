@@ -5,74 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3197"
    version="1.1"
-   width="16">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="find-location-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3205">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3203"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3197" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="layer14"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-393.00035,-28)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-393.00035,-28)">
-    <path
-       d="m 401.0004,28 c -2.76142,0 -5,2.23858 -5,5 0,0.34518 0.0272,0.67451 0.0937,1 0.37506,2.83961 3.93256,4.92586 4.9375,8.96875 0.98541,-3.98539 4.99777,-6.918 5,-9.96875 l -0.0312,0 c 0,-2.76142 -2.23858,-5 -5,-5 z m 0,2 c 1.65686,0 3,1.34314 3,3 0,1.65686 -1.34314,3 -3,3 -1.65686,0 -3,-1.34314 -3,-3 0,-1.65686 1.34314,-3 3,-3 z"
-       id="path45579"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 7.9999978,1 C 5.2395448,1 3.0015,3.2380448 3.0015,5.9984978 c 0,0.1725309 0.014554,0.3314669 0.031547,0.4994993 C 3.046742,6.6651898 3.069451,6.8354751 3.096142,6.999249 3.6684259,10.512444 6.0006837,13.000686 7.9999978,15 9.9993119,13.000686 12.33155,10.512543 12.903854,6.999249 c 0.02669,-0.1637739 0.04939,-0.3340592 0.06309,-0.5012519 0.01709,-0.1680324 0.03155,-0.3269684 0.03155,-0.4994993 C 12.998494,3.2380448 10.760449,1 7.9999969,1 Z m 0,3.0005008 c 1.1042213,0 1.9997501,0.8938059 1.9997501,1.997997 0,1.1041913 -0.8955588,1.9997497 -1.9997501,1.9997497 -1.1041912,0 -1.9997496,-0.8955584 -1.9997496,-1.9997497 0,-1.1041912 0.8955584,-1.997997 1.9997496,-1.997997 z"
+     id="path3201"
+     inkscape:connector-curvature="0" />
 </svg>

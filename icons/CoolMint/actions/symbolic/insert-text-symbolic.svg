@@ -5,78 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16.01819"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3429"
    version="1.1"
-   width="16.000132">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="insert-text-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3437">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3435"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="7.8636368"
+     inkscape:cy="9.3920043"
+     inkscape:current-layer="svg3429" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="layer14"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-313.00034,-148)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-313.00034,-148)">
-    <path
-       d="m 317,148 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 317.29357,157.60979 318.09172,158 319,158 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 C 318.12941,155.54729 318.00248,155.27938 318,155 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 318.39533,154.11604 318.57764,154 319,154 z"
-       id="path7493"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 318.0004,160.01819 3,4 3,-4 z"
-       id="path30282"
-       style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="m 4.2988281,1.003906 -2.8574219,8 1.4296876,0 0.6074218,-1.7148438 2.7851563,0 0.6074219,1.7148438 1.5878906,0 -3.0175782,-8 -1.1425781,0 z m 0.5722657,2.2851562 1,2.8574219 -2,0 1,-2.8574219 z M 10,4.003906 l 0,1 2.5,0 c 0.21408,0 0.5,0.30707 0.5,0.5 l 0,0.5 -2.5,0 c -0.45964,0 -0.8678,0.191975 -1.125,0.484375 C 9.1178,6.780661 8.9968,7.143596 9,7.503906 9.003,7.864216 9.134465,8.230241 9.390625,8.519531 9.646785,8.808801 10.04586,9.003906 10.5,9.003906 l 2.5,0 0.5,0 0.5,0 0,-0.421875 c 0.008,-0.0469 0,-0.078125 0,-0.078125 l 0,-0.5 0,-2.5 c 0,-0.81717 -0.6599,-1.5 -1.5,-1.5 l -2.5,0 z m 0.5,3 2.5,0 0,1 -2.5,0 c -0.19894,0 -0.283455,-0.054905 -0.359375,-0.140625 C 10.064725,7.777581 10.00124,7.643596 10,7.503906 9.999,7.364216 10.0523,7.227131 10.125,7.144531 10.1977,7.061931 10.28882,7.003906 10.5,7.003906 Z M 5,11 l 3,4 3,-4 -6,0 z"
+     id="path3433"
+     inkscape:connector-curvature="0" />
 </svg>

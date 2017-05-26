@@ -5,82 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3373"
    version="1.1"
-   width="16.000013">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="view-dual-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3381">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3379"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3373" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="layer14"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-453.0002,-108.00012)">
-    <path
-       d="m 453.0002,109 0,1 0,11 0,1 1,0 5,0 c 0.1754,0 0.52538,0.15166 0.8125,0.34375 0.28712,0.19209 0.46875,0.375 0.46875,0.375 l 0.71875,0.71875 0.71875,-0.75 c 0,0 0.8963,-0.6875 1.28125,-0.6875 l 5,0 1,0 0,-1 0,-11 0,-1 -1,0 -5,0 c -0.87652,0 -1.56017,0.34756 -2.03125,0.6875 -0.0301,-0.0207 -0.031,-0.0105 -0.0625,-0.0312 C 460.44577,109.35249 459.82831,109 459.0002,109 l -5,0 -1,0 z m 1,1 5,0 c 0.96632,0 2,1 2,1 0,0 0.97077,-1 2,-1 l 5,0 0,11 -5,0 c -1.03135,0 -2,1 -2,1 0,0 -0.98948,-1 -2,-1 l -5,0 0,-11 z"
-       id="path30431"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 455.0002,112 0,1 4,0 0,-1 z m 0,2 0,1 4,0 0,-1 z m 0,2 0,1 4,0 0,-1 z m 0,2 0,1 4,0 0,-1 z"
-       id="rect30443"
-       style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
-    <path
-       d="m 463.0002,112 0,1 4,0 0,-1 z m 0,2 0,1 4,0 0,-1 z m 0,2 0,1 4,0 0,-1 z"
-       id="path30455"
-       style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 1,1.8752863 1,14.121298 c 4.6666375,-0.0017 9.333625,0.0052 14,0.0034 L 15,1.8787031 c -4.666637,0.00175 -9.333625,-0.00516 -14,-0.00341 z m 6.125,1.7494301 0,8.7505686 -4.375,0.0017 0,-8.7488607 4.375,-0.00341 z m 1.75,0.00341 4.375,0 0,8.7488606 -4.375,0 0,-8.7488606 z"
+     id="path3377"
+     inkscape:connector-curvature="0" />
 </svg>

@@ -5,78 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3255"
    version="1.1"
-   width="16">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="insert-image-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3263">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3261"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3255" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="layer14"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-273.0004,-148)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-273.0004,-148)">
-    <path
-       d="m 275.5002,148 c -0.277,-1e-4 -0.5,0.223 -0.5,0.5 l 0,9 c 0,0.277 0.223,0.4999 0.5,0.5 l 11.002,0.004 c 0.277,1e-4 0.5,-0.223 0.5,-0.5 l 0,-9 c 0,-0.277 -0.223,-0.4999 -0.5,-0.5 z m 1.5,2 8.002,0.004 0,5 -8.002,-0.004 z"
-       id="path16851-6"
-       style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       d="m 278.0002,160 3,4 3,-4 z"
-       id="path30256"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="M 3.6242139,1 C 2.749,1 2.749,1.8752139 2.749,1.8752139 l 0,6.998289 C 2.7490263,9.748717 3.6242138,9.748717 3.6242138,9.748717 l 8.7521392,0 c 0,0 0.87524,0 0.875213,-0.8752141 l 0,-6.998289 C 13.25154,1 12.376353,1 12.376353,1 L 3.6242138,1 Z m 2.6256416,3.0598265 2.6256416,2.6256417 1.3128209,-1.3128209 1.312821,1.3128209 0,1.3128207 -7.0017112,0 0,-2.1880347 1.7504277,-1.7504277 z M 5.3746416,11.499144 8.0002833,15 l 2.6256417,-3.500856 -5.2512834,0 z"
+     id="path3259"
+     inkscape:connector-curvature="0" />
 </svg>

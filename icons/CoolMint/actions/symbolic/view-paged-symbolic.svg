@@ -5,82 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
    version="1.1"
-   width="16">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="view-paged-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata10">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="14.075844"
+     inkscape:cx="0.34743491"
+     inkscape:cy="0.8412142"
+     inkscape:current-layer="svg2" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="layer14"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-433.00021,-108)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-433.00021,-108)">
-    <path
-       d="m 434.0002,108 0,1 0,11 0,1 1,0 9,0 1,0 0,-1 0,-11 0,-1 -1,0 -9,0 z m 1,1 9,0 0,11 -9,0 z"
-       id="rect7352-7-94"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 446.0004,110.99988 -2e-4,1.00012 1,0 0,11 -9,0 0,-1 -0.9998,-1.2e-4 0,2 11,0 0,-13 z"
-       id="rect7352-7-9-6"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#bebebe;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 436.0002,110 0,1 7,0 0,-1 z m 0,2 0,1 7,0 0,-1 z m 0,2 0,1 7,0 0,-1 z m 0,2 0,1 4,0 0,-1 z"
-       id="rect30443-4"
-       style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="m 1.875,1.0003146 0,11.3747444 1.7499607,0 c -3.588e-4,-3.216489 7.87e-5,-6.4322201 0,-9.648709 2.3763678,0.00437 7.8748233,0 7.8748233,0 l 0,-1.7260354 c -3.2081419,2.362e-4 -6.4172198,-8.138e-4 -9.624784,0 z m 2.624941,2.624941 0,11.3747444 9.624784,0 0,-11.3747444 -9.624784,0 z m 1.7499607,1.7260354 6.1248623,0 0,7.874823 -6.1248623,0 0,-7.874823 z"
+     id="path6"
+     inkscape:connector-curvature="0" />
 </svg>

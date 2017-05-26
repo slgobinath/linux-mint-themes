@@ -5,74 +5,55 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   height="16"
-   id="svg7384"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg3255"
    version="1.1"
-   width="16.00041">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="media-skip-backward-symbolic.svg">
   <metadata
-     id="metadata90">
+     id="metadata3263">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>elementary Symbolic Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <title
-     id="title9167">elementary Symbolic Icon Theme</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3261"
+     showgrid="false"
+     inkscape:zoom="39.8125"
+     inkscape:cx="3.5290424"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3255" />
   <defs
-     id="defs7386">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554">
-      <feBlend
-         id="feBlend7556"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter7554-7">
-      <feBlend
-         id="feBlend7556-6"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
   </defs>
-  <g
-     id="layer9"
-     label="status"
-     style="display:inline"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="layer10"
-     style="display:inline"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="layer13"
-     style="display:inline"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="layer14"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="layer15"
-     style="display:inline"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="g71291"
-     style="display:inline"
-     transform="translate(-273.0002,52)" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-273.0002,52)">
-    <path
-       d="m 287.0002,-49 0,10 -7,-5 7,-5 z m -7,5 0,5 -7,-5 7,-5 0,5 z m -7,0 0,0 z"
-       id="path2843-4-51-9-9"
-       style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-Text"
+     d="m 2,2.6 0,11.2 1.5,0 0,-5.6 0,-5.6 -1.5,0 z m 1.5,5.6 5.25,5.6 0,-5.6 0,-5.6 L 3.5,8.2 Z M 8.75,8.2 14,13.8 14,2.6 8.75,8.2 Z"
+     id="path3259"
+     inkscape:connector-curvature="0" />
 </svg>
