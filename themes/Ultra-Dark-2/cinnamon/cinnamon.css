@@ -1793,7 +1793,7 @@ StScrollBar StButton#hhandle:active {
 
 .sound-player>StBoxLayout:first-child StButton:small {
     width: 16px;
-    height: 8px;
+    height: 16px;
     padding: 1px;
 }
 

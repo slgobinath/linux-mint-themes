@@ -13,12 +13,12 @@
 <constant name="C_title_focused" value="#d7cfcf" />
 <constant name="C_title_unfocused" value="#d7cfcf" />
 
-<constant name="C_wm_bg_focused" value="#1b1b1b" />
-<constant name="C_wm_bg_unfocused" value="#1b1b1b" />
+<constant name="C_wm_bg_focused" value="#141414" />
+<constant name="C_wm_bg_unfocused" value="#141414" />
 
-<constant name="C_wm_border" value="#1b1b1b" />
+<constant name="C_wm_border" value="#141414" />
 
-<constant name="C_wm_highlight" value="#373737" />
+<constant name="C_wm_highlight" value="#141414" />
 
 <!-- window button colors -->
 
@@ -27,7 +27,7 @@
 <constant name="C_button_close_bg_hover" value="shade/gtk:custom(selected_bg_color,#3770aa)/1.14" />
 <constant name="C_button_close_bg_active" value="shade/gtk:custom(selected_bg_color,#3770aa)/0.8" />
 
-<constant name="C_icon_close_bg" value="#1b1b1b" />
+<constant name="C_icon_close_bg" value="#141414" />
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="#4C4C4C" />
