@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=CoolMint-Y
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=CoolMint-Y
+MetacityTheme=CoolMint-Y
+IconTheme=Mint-Y
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
